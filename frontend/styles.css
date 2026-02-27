@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+button {
+    margin: 5px;
+    padding: 8px 15px;
+    border: none;
+    background: #333;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #555;
+}
+
+.joke-item {
+    background: #fff7cc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
