@@ -31,30 +31,6 @@ Perfect for learning:
 
 ---
 
-## 📁 Project Structure
-project/
-│
-├── app/
-│ ├── api.py # API routes (router)
-│ ├── crud.py # Add, list, delete favourite jokes
-│ ├── external.py # Fetch jokes from external API
-│ ├── main.py # FastAPI app + router + CORS
-│ └── pycache/ # Ignored
-│
-├── data/
-│ └── favjokes.json # User jokes (ignored in git)
-│
-├── frontend/
-│ ├── index.html # UI page
-│ ├── style.css # Page styling
-│ └── script.js # Fetch logic
-│
-├── Dockerfile # Docker container definition
-├── requirements.txt # Python dependencies
-└── README.md # Documentation
-
----
-
 ## 🧩 Backend Setup
 
 ### Install Dependencies
